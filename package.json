@@ -1,0 +1,12 @@
+{
+  "name": "harmony-swap",
+  "version": "1.0.0",
+  "description": "Decentralized Uniswap-like exchange for Harmony.",
+  "repository": "https://github.com/hyplabs/HarmonySwap.git",
+  "license": "GPL-3.0-or-later",
+  "main": "truffle.js",
+  "dependencies": {
+    "@harmony-js/core": "^0.1.45",
+    "tslib": "^2.0.0"
+  }
+}
